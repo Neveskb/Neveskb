@@ -1,7 +1,7 @@
 ### Oii eu sou a Keythianne, estudante de programação
 
-- 🌱 C# e JS
-- 😄 Pronomes: ela/dela
+- 🌱  C# e JS
+- 😄  Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
